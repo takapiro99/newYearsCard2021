@@ -1,8 +1,8 @@
 {
   "name": "new-years-card",
   "version": "1.0.0",
-  "description": "celebrate new year with me",
-  "main": "index.js",
+  "description": "Let's celebrate a new year!",
+  "main": "bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +18,15 @@
   "homepage": "https://github.com/takapiro99/new-years-card#readme",
   "bin": {
     "cli": "bin/index.js"
+  },
+  "dependencies": {
+    "ascii-box": "^1.1.2",
+    "chalk": "^4.1.0",
+    "cli-progress": "^3.8.2",
+    "cowsay": "^1.4.0",
+    "lolcatjs": "^2.4.0",
+    "meow": "^8.1.0",
+    "ora": "^5.2.0",
+    "terminal-link": "^2.1.1"
   }
 }

@@ -10,7 +10,7 @@ const cli = meow(
     $ newYearsCard <options>
 
   ${chalk.blueBright("Options")}
-    -n, --name     Include your name
+    -n , --name <your name>     Include your name
 
   ${chalk.blueBright("Examples")}
     $ newYearsCard

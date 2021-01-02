@@ -1,6 +1,6 @@
 {
   "name": "new-years-card",
-  "version": "1.0.0",
+  "version": "2021.1.0",
   "description": "Let's celebrate a new year!",
   "main": "bin/index.js",
   "scripts": {
@@ -26,7 +26,6 @@
     "cowsay": "^1.4.0",
     "lolcatjs": "^2.4.0",
     "meow": "^8.1.0",
-    "ora": "^5.2.0",
-    "terminal-link": "^2.1.1"
+    "ora": "^5.2.0"
   }
 }
